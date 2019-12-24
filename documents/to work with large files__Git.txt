@@ -1,0 +1,13 @@
+$ git push origin master
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (6/6), 73.87 MiB | 2.48 MiB/s, done.
+Total 6 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
+remote: warning: See http://git.io/iEPt8g for more information.
+remote: warning: File exe_files/Jenkins/jenkins.war is 74.06 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+To github.com:sathya-1994/myFirstRepository.git
+   bf8e68b..77dfa9e  master -> master
